@@ -1,8 +1,10 @@
-Item	Sales_Units
-Camera	93
+Item	    Sales_Units
+Camera	  93
 Computer	97
-Phone	96
-Printer	92
-Item	Location	Sales_Units
+Phone	    96
+Printer	  92
+
+Item	    Location	Sales_Units
 Computer	New York	29
+
 Item	Location	Year	
